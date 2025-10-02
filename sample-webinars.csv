@@ -1,0 +1,11 @@
+webinar_id,webinar_name,date,time,presenter_name,presenter_email,presenter_phone,attendee_name,attendee_email,attendee_phone
+1,Introduction to AI in Healthcare,2025-07-15,10:00,Dr. Sarah Johnson,sarah.johnson@email.com,15551234567,Mark Wilson,mark.wilson@email.com,15551234568
+2,Machine Learning Fundamentals,2025-07-15,14:00,Prof. Michael Chen,michael.chen@email.com,15551234569,Lisa Anderson,lisa.anderson@email.com,15551234570
+3,Data Analytics for Business,2025-07-15,16:00,Emily Rodriguez,emily.rodriguez@email.com,15551234571,David Brown,david.brown@email.com,15551234572
+4,Python Programming Workshop,2025-07-16,09:00,Alex Thompson,alex.thompson@email.com,15551234573,Jennifer Davis,jennifer.davis@email.com,15551234574
+5,Digital Marketing Strategies,2025-07-16,11:00,Rachel Green,rachel.green@email.com,15551234575,Thomas Miller,thomas.miller@email.com,15551234576
+6,Cloud Computing Essentials,2025-07-16,15:00,James Wilson,james.wilson@email.com,15551234577,Karen Smith,karen.smith@email.com,15551234578
+7,Cybersecurity Best Practices,2025-07-17,10:30,Dr. Amanda Lee,amanda.lee@email.com,15551234579,Robert Taylor,robert.taylor@email.com,15551234580
+8,Blockchain Technology Overview,2025-07-17,13:00,Kevin Park,kevin.park@email.com,15551234581,Michelle Garcia,michelle.garcia@email.com,15551234582
+9,UX/UI Design Principles,2025-07-17,15:30,Sophia Martinez,sophia.martinez@email.com,15551234583,Christopher Jones,chris.jones@email.com,15551234584
+10,Financial Planning Workshop,2025-07-18,11:00,Daniel Cooper,daniel.cooper@email.com,15551234585,Amanda White,amanda.white@email.com,15551234586
