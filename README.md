@@ -153,12 +153,6 @@ This is a PoC implementation with the following simulations:
 - Check phone number format (include country code)
 - Ensure WhatsApp sandbox is configured
 
-## 👨‍💻 Developer
-
-**GMak Mani**  
-📞 +1 (201) 936-6819  
-📧 [Contact for development inquiries]
-
 ## 📄 License
 
 This is a proof of concept project. Contact the developer for licensing and production use.
